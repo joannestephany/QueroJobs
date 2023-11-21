@@ -69,7 +69,7 @@ Para acessar o manual e vídeo basta acessar: [Pasta de Gerenciamento](https://g
 
 Para executar o projeto, é preciso possuir o .net6.0 e MySQL.
 
-Também é necessário importar o dump do banco que se encontra em /AnaliseProjeto/idrug_dump.sql
+Também é necessário importar o dump do banco que se encontra em /AnaliseProjeto/DbSource.sql
 
 
 
